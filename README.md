@@ -10,4 +10,4 @@
 
 这些平台专注于提供成人及日韩欧美丝袜等题材的视频资源，内容丰富、分类清晰，方便用户快速查找所需影片。每个视频页面均包含影片时长、主演、清晰度等详细信息，支持高清视频播放，并根据网络环境自动优化画质，确保流畅观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/sang20250710/sang9 ）</span>
